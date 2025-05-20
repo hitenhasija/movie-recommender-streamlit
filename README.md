@@ -1,7 +1,7 @@
 # 🎬 Movie Recommender System
 
 A content-based movie recommendation system built with **Streamlit**, using cosine similarity on movie metadata.  
-Live Demo → [Try it here]([https://movie-recommender-streamlit.streamlit.app](https://movie-recommender-app-j3nqudjz22tawcvhnzstzr.streamlit.app/))
+Live Demo → [Try it here]([[https://movie-recommender-streamlit.streamlit.app])
 
 ---
 
