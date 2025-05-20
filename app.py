@@ -11,8 +11,8 @@ st.markdown("<h1 style='text-align:center; color:#f63366;'>🎬 Movie Recommende
 st.markdown("##")
 
 # Load data
-new_df = pd.read_csv('D:/python/movie recommendation project/new_df.csv')
-similarity = joblib.load("D:/python/movie recommendation project/similarity_compressed.pkl")
+new_df = pd.read_csv('new_df.csv')
+similarity = joblib.load('similarity_compressed.pkl')
 
 
 # Select movie from dropdown
